@@ -8,6 +8,7 @@ When it comes to measuring the speed of your Python code, the `timeit` module is
 2. **Iterating Class Properties**: Evaluate the performance of a function that iterates through class properties.
 3. **Random**: See how the `random` function performs.
 4. **Randint (Random Module)**: Explore the speed of the `randint` function from the `random` module.
+5. **Text iterator **: Explore the speed of the `text iterator` functions that take string and retuning alphabet numbers.
 
 ## Usage
 
