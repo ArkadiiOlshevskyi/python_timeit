@@ -1,6 +1,9 @@
 # Python "timeit" module
 
-![Timeit](insert_image_url_here)
+<p align="center">
+  <img src="https://github.com/ArkadiiOlshevskyi/python_timeit/blob/main/img/arkadii_olshevsky_python_developer_timeit.png" alt="Python timeit module" style="max-width:200%;">
+</p>
+
 
 When it comes to measuring the speed of your Python code, the `timeit` module is your go-to tool. This module provides a simple and effective way to gauge how fast or slow your code executes. Inside this repository, you'll find four examples that demonstrate its usage:
 
